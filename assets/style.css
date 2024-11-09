@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: right;
+    align-items: first baseline;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 0px;
+}
+
+.social-links {
+    margin: 5px;
+}
+
+.social-links img {
+    width: 30px;
+    margin: 0 10px;
+}

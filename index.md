@@ -4,7 +4,7 @@ title: Fundación Lugar de Bengalas
 subtitle: Iluminemos juntos nuestro futuro.
 services:
   - title: Foro de Luz
-    description: <p class="lead">Espacio de desarolllo humano. Nos reunimos todos los Lunes 5pm hora CDMX.</p>
+    description: <p class="lead">Espacio de desarollo humano. Nos reunimos todos los Lunes 5 pm hora CDMX.</p>
     img: flb-foro.jpg
     category: Services
   - title: Día del niño

@@ -5,8 +5,6 @@ language: es
 googleAnalytics: G-S8DS8NYFF0
 gravatar: 0416f0593dc4a348ba48e9e71bf31f87d01d7d559db07bf3246e3eef7de74567
 social:
-  - title: inbox
-    url: mailto:me@jchernandez88.com
   - title: facebook
     url: https://www.facebook.com/LugardeBengalas
     share_url: https://www.facebook.com/sharer.php

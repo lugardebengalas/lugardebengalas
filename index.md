@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Fundación Lugar de Bengalas
+title: Fundación Lugar de Bengalas AC
 subtitle: Iluminemos juntos nuestro futuro.
 services:
   - title: Foro de Luz
